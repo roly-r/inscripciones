@@ -1,0 +1,10 @@
+# Ignorar archivos de bases de datos
+*.sql
+*.db
+
+# Ignorar archivos de configuración sensibles
+.env
+
+# Ignorar archivos temporales y logs
+*.log
+*.tmp
