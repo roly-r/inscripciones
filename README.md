@@ -5,7 +5,6 @@ Este proyecto utiliza una base de datos MySQL llamada `inscripciones`.
 ## Requisitos
 
 - MySQL.
-- Clonar el repositorio.
 
 ## Configuración de la Base de Datos
 
