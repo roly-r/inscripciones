@@ -18,5 +18,8 @@
     </form>
     </div>
     <button onclick="window.location.href='rm_registro.php'">Crear Cuenta</button>
+    <br><br>
+    <h2>Roly Rolando Maydana Acarapi</h2>
+    <h2>TECNOLOGIAS EMERGENTES II</h2>        
 </body>
 </html>
